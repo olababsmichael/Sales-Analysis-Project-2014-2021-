@@ -106,6 +106,11 @@ Created relationships between:
 - **Sales → Table_01 (Product Category/Segment)**  
 
 The final model follows a **Star Schema**, ensuring optimal reporting and query performance.
+## 🗂️ Data Model (Relationship View)
+
+Below is the data model used in this project, showing how the Sales, Geo, Manufacturer, and Product tables are connected in a star schema design.
+
+![Data Model](./relationship.png)
 
 ---
 
