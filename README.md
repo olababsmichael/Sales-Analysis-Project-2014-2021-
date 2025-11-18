@@ -145,6 +145,12 @@ Below is the segment performance visualization from the dashboard.
 - Consistent revenue growth 2014–2021  
 - Seasonal dips but strong recovery patterns  
 - Highest performance seen after 2018  
+## 📈 Revenue Trend (2014–2021)
+
+Below is the revenue trend visualization showing year-over-year performance.
+
+![Revenue Trend](./Revenue_Trend.png)
+
 
 ---
 
