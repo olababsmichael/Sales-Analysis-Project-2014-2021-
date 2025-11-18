@@ -180,4 +180,24 @@ Below is the full Power BI dashboard used in this project.
 It provides an overview of revenue trends, top products, segment performance, geographic insights, and manufacturer analysis.
 
 ![Sales Dashboard](./salesdashboard.jpg)
+## 📂 Project Files
+
+### 📁 Sales Data (4 Country Files)
+- [Sales_USA.csv](./United_State.csv)
+- [Sales_Australia.csv](./Australia.csv)
+- [Sales_Japan.csv](./Japan.csv)
+- [Sales_Germany.csv](./Germany.csv)
+
+---
+
+### 📁 Supporting Tables (Geo, Manufacturer, Table_01)
+- [Geo_Manufacturer_Table01.xlsx](./Data/bi_dimensions.xlsx)
+
+### 📁 Dashboard & Visuals
+- [Sales_Dashboard.pbix](./Dashboard/Sales%20Data.pbix)
+
+### 📁 Documentation
+- [README.md](./README.md)
+- [Project_Presentation.pdf](./Documentation/Project_Presentation.pdf)
+
 
