@@ -134,6 +134,12 @@ Below is the data model used in this project, showing how the Sales, Geo, Manufa
   - **Moderation — 688M**  
   - **Extreme — 506M**  
 - Convenience + Moderation ≈ **60% of total revenue**
+## 🧩 Segment Analysis
+
+Below is the segment performance visualization from the dashboard.
+
+![Segment Analysis](./Segment_Analysis.png)
+
 
 ### 📆 Trend
 - Consistent revenue growth 2014–2021  
