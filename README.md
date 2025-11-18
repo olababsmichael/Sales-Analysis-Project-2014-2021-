@@ -182,8 +182,8 @@ It provides an overview of revenue trends, top products, segment performance, ge
 ![Sales Dashboard](./salesdashboard.jpg)
 ## 📂 Project Files
 
-### 📁 Dashboard & Visuals
-- [Sales_Dashboard.pbix](./Dashboard/Sales%20Data.pbix)
+<!-- ### 📁 Dashboard & Visuals
+- [Sales_Dashboard.pbix](./Dashboard/Sales%20Data.pbix) -->
 
 ### 📁 Documentation
 - [README.md](./README.md)
