@@ -179,5 +179,5 @@ Distinct Countries = DISTINCTCOUNT(Geo[Country])
 Below is the full Power BI dashboard used in this project.  
 It provides an overview of revenue trends, top products, segment performance, geographic insights, and manufacturer analysis.
 
-![Sales Dashboard](./salesdashboard.png)
+![Sales Dashboard](./salesdashboard.jpg)
 
